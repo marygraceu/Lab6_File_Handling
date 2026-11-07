@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+-------------------------------------
+Last Name: Pena
+Student ID: TUPM-26-1140
+Seed Digit: 0
+ID Sum: 14
+Verification Value: 56
+Dataset Sample Size: 64
+Valid Records: 64
+Average Global Active Power: 4.129
+JSON File: Pena_TUPM-26-1140_record.json
+Backup File: Pena_TUPM-26-1140_record.csv

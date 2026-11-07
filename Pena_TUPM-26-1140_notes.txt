@@ -1,0 +1,5 @@
+Student: Pena
+Student ID: TUPM-26-1140
+Seed Digit: 0
+ID Sum: 14
+Verification Value: 56
