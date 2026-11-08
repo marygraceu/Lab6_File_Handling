@@ -1,0 +1,86 @@
+{
+    "student_number": "TUPM-26-1140",
+    "seed_digit": 0,
+    "target_year": 2015,
+    "total_records_in_dataset": 3000,
+    "incidents_in_target_year": 277,
+    "count_per_attack_type": {
+        "Malware": 51,
+        "DDoS": 50,
+        "Ransomware": 47,
+        "Phishing": 46,
+        "SQL Injection": 42,
+        "Man-in-the-Middle": 41
+    },
+    "total_financial_loss_usd_millions": 14510.21,
+    "average_financial_loss_usd_millions": 52.38,
+    "five_costliest_incidents": [
+        {
+            "Original Dataset Row": 2094,
+            "Country": "Germany",
+            "Year": 2015,
+            "Attack Type": "Ransomware",
+            "Target Industry": "Telecommunications",
+            "Financial Loss (in Million $)": 99.83,
+            "Number of Affected Users": 419344,
+            "Attack Source": "Hacker Group",
+            "Security Vulnerability Type": "Zero-day",
+            "Defense Mechanism Used": "Firewall",
+            "Incident Resolution Time (in Hours)": 59.0
+        },
+        {
+            "Original Dataset Row": 158,
+            "Country": "Australia",
+            "Year": 2015,
+            "Attack Type": "Malware",
+            "Target Industry": "Retail",
+            "Financial Loss (in Million $)": 99.41,
+            "Number of Affected Users": 120048,
+            "Attack Source": "Insider",
+            "Security Vulnerability Type": "Zero-day",
+            "Defense Mechanism Used": "Antivirus",
+            "Incident Resolution Time (in Hours)": 12.0
+        },
+        {
+            "Original Dataset Row": 2923,
+            "Country": "Australia",
+            "Year": 2015,
+            "Attack Type": "Phishing",
+            "Target Industry": "Banking",
+            "Financial Loss (in Million $)": 99.2,
+            "Number of Affected Users": 666877,
+            "Attack Source": "Nation-state",
+            "Security Vulnerability Type": "Weak Passwords",
+            "Defense Mechanism Used": "Antivirus",
+            "Incident Resolution Time (in Hours)": 28.0
+        },
+        {
+            "Original Dataset Row": 518,
+            "Country": "USA",
+            "Year": 2015,
+            "Attack Type": "SQL Injection",
+            "Target Industry": "Education",
+            "Financial Loss (in Million $)": 98.78,
+            "Number of Affected Users": 140958,
+            "Attack Source": "Insider",
+            "Security Vulnerability Type": "Social Engineering",
+            "Defense Mechanism Used": "AI-based Detection",
+            "Incident Resolution Time (in Hours)": 51.0
+        },
+        {
+            "Original Dataset Row": 2284,
+            "Country": "Russia",
+            "Year": 2015,
+            "Attack Type": "Man-in-the-Middle",
+            "Target Industry": "Education",
+            "Financial Loss (in Million $)": 98.58,
+            "Number of Affected Users": 816455,
+            "Attack Source": "Unknown",
+            "Security Vulnerability Type": "Unpatched Software",
+            "Defense Mechanism Used": "AI-based Detection",
+            "Incident Resolution Time (in Hours)": 40.0
+        }
+    ],
+    "missing_financial_loss_values": 0,
+    "generated_at": "2026-11-08T19:59:56.755626"
+}

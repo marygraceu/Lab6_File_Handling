@@ -1,0 +1,46 @@
+CYBERSECURITY INCIDENT REPORT
+=======================================================
+Student Number: TUPM-26-1140
+Target Year: 2015
+
+DATASET SUMMARY
+-------------------------------------------------------
+Total records in dataset: 3000
+Incidents in target year: 277
+
+COUNT PER ATTACK TYPE
+-------------------------------------------------------
+Malware: 51
+DDoS: 50
+Ransomware: 47
+Phishing: 46
+SQL Injection: 42
+Man-in-the-Middle: 41
+
+FINANCIAL LOSS (USD MILLIONS)
+-------------------------------------------------------
+Total financial loss: 14510.21
+Average financial loss: 52.38
+
+FIVE COSTLIEST INCIDENTS
+-------------------------------------------------------
+1. Row 2094 | Ransomware | 99.83 million USD
+2. Row 158 | Malware | 99.41 million USD
+3. Row 2923 | Phishing | 99.20 million USD
+4. Row 518 | SQL Injection | 98.78 million USD
+5. Row 2284 | Man-in-the-Middle | 98.58 million USD
+
+OUTPUT FILES AND VERIFICATION
+-------------------------------------------------------
+Filtered CSV: filtered_incidents_2015.csv
+JSON Summary: incident_summary_2015.json
+JSON Backup: incident_summary_2015_backup.json
+Text Report: incident_report_2015.txt
+CSV exported rows: 277
+Selected records: 277
+CSV row-count verification: PASSED
+JSON backup verification: PASSED
+Backup file size: 3277 bytes
+Backup SHA-256: 93b45bec7f602b31fef8573bb3f83bc22485be9d3bb641bf4b11462ca092750b
+
+END OF REPORT
